@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BAR DARK */
+.logos-bar {
+  width: 30px;
+  height: 30px;
+  color: white;
+}
+
+/* MAIN */
+.title-user {
+  font-size: 40px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: white;
+}
+
+/* MODAL */
+.label-modal{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+/* FOOTER */
+.footer-text {
+  font-size: 30px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: white;
+}
